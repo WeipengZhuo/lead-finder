@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "treg": {
+      "type": "http",
+      "url": "https://treg.to/mcp/",
+      "headers": {
+        "Authorization": "Bearer YOUR_TREG_AGENT_TOKEN"
+      }
+    }
+  }
+}

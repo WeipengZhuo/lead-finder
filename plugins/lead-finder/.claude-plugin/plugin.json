@@ -1,0 +1,10 @@
+{
+  "name": "lead-finder",
+  "displayName": "Lead Finder",
+  "version": "0.1.2",
+  "description": "Finds the right people to contact for your business, checks their work emails, and drafts a first note in your voice. Never sends anything. Licensed to Karen Louisa Gross (Communication That Sings). Not for redistribution.",
+  "author": {
+    "name": "Nexrizen"
+  },
+  "license": "SEE LICENSE IN LICENSE"
+}

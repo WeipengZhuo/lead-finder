@@ -1,0 +1,14 @@
+{
+  "name": "nexrizen-lead-finder",
+  "owner": {
+    "name": "Nexrizen",
+    "email": "wei@nexrizen.com"
+  },
+  "plugins": [
+    {
+      "name": "lead-finder",
+      "source": "./plugins/lead-finder",
+      "description": "Finds the right people to contact for your business, checks their work emails, and drafts a first note in your voice. Never sends anything."
+    }
+  ]
+}
